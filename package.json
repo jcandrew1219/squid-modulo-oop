@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo && exit"
+    "test": "jest"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.0"
+    "inquirer": "^8.0.0",
+    "jest": "^29.5.0"
   }
 }
